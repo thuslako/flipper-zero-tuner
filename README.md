@@ -9,7 +9,3 @@
 ## Description
 
 Flipper Tuner instrument tuner
-
-## Support
-
-- Buy me a Tea [here](#)
